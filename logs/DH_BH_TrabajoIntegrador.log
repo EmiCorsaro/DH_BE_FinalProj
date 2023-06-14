@@ -1,0 +1,6 @@
+2023-06-14 13:43:05,108 [main] INFO  API.Servicios.OdontologoService - Servicio para listar los odontologos registrados
+2023-06-14 13:43:05,108 [main] INFO  DB.Servicios.Memoria.OdontologoDao_Memoria - Listado de odontologos solicitado
+2023-06-14 14:54:32,563 [main] INFO  API.Servicios.OdontologoService - Servicio para listar los odontologos registrados
+2023-06-14 14:54:32,564 [main] INFO  DB.Servicios.Memoria.OdontologoDao_Memoria - Listado de odontologos solicitado
+2023-06-14 14:54:43,290 [main] INFO  API.Servicios.OdontologoService - Servicio para listar los odontologos registrados
+2023-06-14 14:54:43,290 [main] INFO  DB.Servicios.Memoria.OdontologoDao_Memoria - Listado de odontologos solicitado
